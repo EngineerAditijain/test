@@ -1,6 +1,0 @@
-{{#user}
-Name: Aditi
-Skills: HTML, CSS, JS, Node.js,React.js,Express.js,Mongo Db
-Email: aditijainjnv101@gmail.com
-{{/user}}
-}
